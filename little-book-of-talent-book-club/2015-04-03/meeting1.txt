@@ -1,0 +1,24 @@
+First meeting
+  Location: Turing, teacher's area
+  Time:     2:00, Friday, 3 April, 2015
+  Assignment
+    Read tips 14 & 15 in The Little book of talent
+    https://gist.github.com/JoshCheek/795826f1ffc1f8ac8c36
+    Think about what your process is for learning
+  Goals
+    Understand each other's processes
+    Identify learning techniques to try the next week
+      Example: Short repetition on a type of problem
+      Example: Pairing
+  Discuss
+    How have you applied these tips in your life?
+    Has repetition worked for you when learning new skills?
+    What does repetition look like for learning to program?
+      Example: Limiting scope
+      Example: Applying Exercisms to different languages or styles.
+    Chunking
+      What does it mean to chunk?
+      What does it look like in practice for you?
+      Does the domain alter the approach?
+  Exercise
+    Break your neighbor's learning process in to chunks and compare it to your own
